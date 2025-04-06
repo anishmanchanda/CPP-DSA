@@ -1,10 +1,6 @@
 #include <iostream>
 using namespace std;
-/*void swap(int *a,int *b){
-    int temp=a;
-    a=b;
-    b=temp;
-}*/
+//DUTCH NATIONAL FLAG ALGO
 int main(){
     int arr[]={0,1,1,0,1,2,1,2,0,0,0};
     int high=10,low=0,mid=0;
