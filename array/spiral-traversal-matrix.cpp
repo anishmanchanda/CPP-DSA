@@ -24,7 +24,7 @@ int main(){
         if(left<=right){
             for(int i=bottom;i>=top;i--){
                 cout<<mat[i][left]<<" ";
-            }
+            } 
             left++;
         }
 
