@@ -1,6 +1,4 @@
 #include<iostream>
-#include <array>
-#include <climits>
 using namespace std;
 /*
 double areaSwitchCase(int ch, vector<double> a) {
@@ -16,9 +14,6 @@ double areaSwitchCase(int ch, vector<double> a) {
 }
 */
 int main(){
-
-    int n=10;
-    n=n*4/(4-2);
-    cout<<n<<endl;
+    cout<<"hello world"<<endl;
     return 0;
 }
