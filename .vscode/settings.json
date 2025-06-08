@@ -45,7 +45,8 @@
         "variant": "cpp",
         "memory": "cpp",
         "algorithm": "cpp",
-        "*.ds_store": "cpp"
+        "*.ds_store": "cpp",
+        "__config": "cpp"
     },
     "C_Cpp.default.compilerPath": "/usr/bin/clang++"
 }
